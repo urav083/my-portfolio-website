@@ -611,6 +611,7 @@ form label {
 .projects button {
   margin-left: 0;
   margin-right: 0;
+  width: 142px;
 }
 
 .projectImage {
@@ -694,6 +695,11 @@ form label {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    margin-top: 3%;
+    width: 80%;
+  }
+  .projectInfo p {
+    margin-top: 5%;
   }
   .projectButtons {
     display: -webkit-box;
@@ -710,6 +716,7 @@ form label {
   .projectButtons button {
     margin-left: 0;
     margin-right: 0;
+    margin-top: 10%;
   }
   .projectButtons .projects .viewCode {
     margin-left: 0;
